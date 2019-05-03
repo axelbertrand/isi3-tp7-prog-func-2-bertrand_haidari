@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55fcd2e8-f936-41a1-ae83-2bf75f0eb2c8" name="Default Changelist" comment="" />
+    <list default="true" id="55fcd2e8-f936-41a1-ae83-2bf75f0eb2c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-arrow/src/main/kotlin/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_arrow_kt_arrow_annotations_0_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_arrow_kt_arrow_core_0_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_kindedj_kindedj_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/arrow_core_1_0_SNAPSHOT_jar_with_dependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-java-sandbox/02-java-sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/02-java-sandbox/02-java-sandbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-java-sandbox/src/package00/FunctionsSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-java-sandbox/src/package00/FunctionsSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-kotlin-sandbox/03-kotlin-sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/03-kotlin-sandbox/03-kotlin-sandbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt" beforeDir="false" afterPath="$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-arrow/04-arrow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/04-arrow/04-arrow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/99-arrow-lib/target/" />
     <ignored path="$PROJECT_DIR$/04-arrow/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,103 +34,107 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.27258193">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="FIRST">
-                  <first_editor relative-caret-position="328">
-                    <caret line="41" selection-start-line="41" selection-end-line="41" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/package00/FunctionsSample.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="9" column="20" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/functional/Monad.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
-                  <folding>
-                    <element signature="e#124#125#0" expanded="true" />
-                    <element signature="e#151#152#0" expanded="true" />
-                    <element signature="e#161#162#0" expanded="true" />
-                    <element signature="e#189#190#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01-js-sandbox/03-monades.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="18">
-                  <caret line="1" column="11" selection-start-line="1" selection-end-line="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/package01/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="FIRST">
-                  <first_editor relative-caret-position="594">
-                    <caret line="112" column="20" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="20" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="183">
+                <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-107">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#14#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-arrow/src/main/kotlin/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/04-data-classes-collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/01-functions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/functional/Monad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-js-sandbox/03-monades.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="11" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/package01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,6 +144,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,7 +168,6 @@
         <option value="$PROJECT_DIR$/02-java-sandbox/src/MainBis.java" />
         <option value="$PROJECT_DIR$/02-java-sandbox/src/FunctionSample.java" />
         <option value="$PROJECT_DIR$/02-java-sandbox/src/FunctionsSample.java" />
-        <option value="$PROJECT_DIR$/03-kotlin-sandbox/src/01-functions.kt" />
         <option value="$PROJECT_DIR$/03-kotlin-sandbox/src/02-when.kt" />
         <option value="$PROJECT_DIR$/02-java-sandbox/src/MainTier.java" />
         <option value="$PROJECT_DIR$/02-java-sandbox/src/Main03.java" />
@@ -159,11 +185,14 @@
         <option value="$PROJECT_DIR$/99-arrow-lib/pom.xml" />
         <option value="$PROJECT_DIR$/03-kotlin-sandbox/src/06-functional-again.kt" />
         <option value="$PROJECT_DIR$/04-arrow/pom.xml" />
-        <option value="$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt" />
         <option value="$PROJECT_DIR$/02-java-sandbox/src/functional/Monad.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/02-java-sandbox/src/package00/FunctionsSample.java" />
+        <option value="$PROJECT_DIR$/03-kotlin-sandbox/src/01-functions.kt" />
+        <option value="$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt" />
+        <option value="$PROJECT_DIR$/04-arrow/src/main/kotlin/test.txt" />
+        <option value="$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt" />
       </list>
     </option>
   </component>
@@ -175,9 +204,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="37" />
-    <option name="y" value="23" />
-    <option name="width" value="1643" />
+    <option name="x" value="35" />
+    <option name="y" value="21" />
+    <option name="width" value="1645" />
     <option name="height" value="990" />
   </component>
   <component name="ProjectView">
@@ -185,99 +214,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="01-js-sandbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
               <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
               <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="functional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="package00" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="package01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="package03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="02-java-sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="package04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="03-kotlin-sandbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
-              <item name="03-kotlin-sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isi3-tp7-prog-func" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isi3-tp7-prog-func" type="462c0819:PsiDirectoryNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
               <item name="04-arrow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
+              <item name="04-arrow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
+              <item name="04-arrow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isi3-tp7-prog-func-2-bertrand_haidari" type="462c0819:PsiDirectoryNode" />
+              <item name="04-arrow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.6.0" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-kotlin-sandbox/src/solution" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02-java-sandbox" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45747125" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -305,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.demo.MainKt">
+  <component name="RunManager" selected="Kotlin._05_kebabKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="package01.Main" />
       <module name="02-java-sandbox" />
@@ -373,13 +377,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._05_kebabKt" />
         <item itemvalue="Kotlin.demo.MainKt" />
         <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin._05_kebabKt" />
         <item itemvalue="Kotlin._04_data_classes_collectionsKt" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -393,23 +400,29 @@
       <workItem from="1556698834359" duration="14050000" />
       <workItem from="1556753432063" duration="490000" />
       <workItem from="1556813528311" duration="1174000" />
+      <workItem from="1556872384554" duration="2390000" />
+      <workItem from="1556875098929" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27872000" />
+    <option name="totallyTimeSpent" value="32846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1643" height="1027" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21861337" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="npm" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24164811" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2407932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,27 +432,24 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32962137" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
     <entry file="file://$PROJECT_DIR$/01-js-sandbox/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -538,20 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/04-data-classes-collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/01-functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/02-when.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -559,48 +555,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-arrow/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-arrow/build.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-js-sandbox/03-monades.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/functional/.gitkeep" />
     <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/package00/FunctionsSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/functional/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/package01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="561">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -609,38 +568,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/functional/Monad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="221">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt">
+    <entry file="file://$PROJECT_DIR$/01-js-sandbox/03-monades.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="17">
           <caret line="1" column="11" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-java-sandbox/src/package01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/01-functions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/04-data-classes-collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-arrow/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-arrow/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-arrow/src/main/kotlin/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-kotlin-sandbox/src/05-kebab.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="594">
-            <caret line="112" column="20" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="20" />
+          <first_editor relative-caret-position="183">
+            <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-arrow/src/main/kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#14#118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -685,7 +700,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -697,7 +712,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>isi3-tp7-prog-func</last-edited>
+          <last-edited>Kotlin|04-arrow</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -709,7 +724,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: io.kindedj:kindedj:1.1.0</last-edited>
+          <last-edited>KotlinJavaRuntime</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

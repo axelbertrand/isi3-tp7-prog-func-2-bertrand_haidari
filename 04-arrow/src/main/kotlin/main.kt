@@ -3,6 +3,7 @@ package demo
 import arrow.core.Failure
 import arrow.core.Success
 import arrow.core.Try
+import java.io.FileInputStream
 
 fun divide(a: Double, b: Double): Double {
   return a/b
@@ -18,16 +19,13 @@ fun divide2(a: Double, b: Double): Try<Double> {
 }
 
 // autre façon de l'utiliser
-/*
 
+fun readFile(filePath: String): Try<String> {
+  val fis = FileInputStream(filePath)
   return Try { // try catch amélioré
 
   }
-
-
- */
-
-
+}
 
 fun main(args: Array<String>) {
 

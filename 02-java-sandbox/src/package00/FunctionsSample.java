@@ -1,6 +1,12 @@
 package package00;
 
+import java.util.function.BiFunction;
 import java.util.function.Function;
+
+@FunctionalInterface
+interface TriFunction<T, U, R, S> {
+  S apply(T a, U b, R c);
+}
 
 public class FunctionsSample {
 
@@ -17,6 +23,17 @@ public class FunctionsSample {
       add42.apply(45)
     );
 
+    BiFunction<Double, Double, Double> add = (n1, n2) -> n1 + n2;
+
+    System.out.println(
+      add.apply(25., 42.)
+    );
+
+    TriFunction<Double, Double, Double, Double> volume = (n1, n2, n3) -> n1 * n2 * n3;
+
+    System.out.println(
+      volume.apply(25., 42., 12.)
+    );
   }
 
 }
