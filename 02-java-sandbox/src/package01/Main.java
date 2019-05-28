@@ -13,7 +13,7 @@ public class Main {
     Function<String, String> italic = txt -> "<i>"+txt+"</i>";
     Function<String, String> h1 = txt -> "<h1>"+txt+"</h1>";
 
-    Monad html = new Monad<String>("Hello World");
+    Monad html = new Monad<>("Hello World");
 
     System.out.println(
       html.map(bold).map(italic).map(h1).getValue()

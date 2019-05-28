@@ -21,22 +21,25 @@ fun divide2(a: Double, b: Double): Try<Double> {
 // autre façon de l'utiliser
 
 fun readFile(filePath: String): Try<String> {
-  val fis = FileInputStream(filePath)
-  return Try { // try catch amélioré
-
-  }
+  val fis = Try { FileInputStream(filePath) }
+  return fis.map { it.readBytes().toString() }
 }
 
 fun main(args: Array<String>) {
 
   println(divide(5.0, 0.0))
 
-  divide2(5.0, 2.0).let {
+  divide2(5.0, 0.0).let {
     when(it) {
       is Failure -> println(it.exception.message)
       is Success -> println(it.value)
     }
   }
 
-
+  readFile("test.txt").let {
+    when(it) {
+      is Failure -> println(it.exception.message)
+      is Success -> println(it.value)
+    }
+  }
 }

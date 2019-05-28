@@ -19,18 +19,22 @@ fun main(args: Array<String>) {
 
   // reduction sur les frites et sur le veau (50%)
   val price = kebabPlateCmd1.map {
-    var newPrice = 0
-      if (it.name == "frites" || it.name == "veau") {
-      newPrice = it.price / 2
+    var newPrice = if (it.name == "frites" || it.name == "veau") {
+      it.price / 2
     } else {
-      newPrice = it.price
+      it.price
     }
 
     Ingredient(it.name, newPrice, it.vegetarian)
-  }.sumBy { it -> it.price }
+  }.sumBy { it.price }
 
-    println(kebabPlateCmd1)
+  val isVegetarian = kebabPlateCmd1.all {
+    it.vegetarian
+  }
+
+  println(kebabPlateCmd1)
   println(price)
+  println(isVegetarian)
 
 
 }

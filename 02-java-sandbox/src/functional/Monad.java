@@ -1,4 +1,4 @@
-package functional.solution;
+package functional;
 
 import java.util.function.Function;
 
