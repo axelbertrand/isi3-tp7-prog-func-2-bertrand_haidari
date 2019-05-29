@@ -1,7 +1,5 @@
 import io.vavr.control.Try;
-
 import java.io.FileInputStream;
-import java.io.InputStream;
 
 public class Main {
     public static double divide(double a, double b) {
@@ -19,15 +17,23 @@ public class Main {
     }
 
     public static Try<String> readFile(String filePath) {
-        Try<InputStream> fis = Try.of(new FileInputStream(filePath));
-        return fis.map(it -> new String(it.read(new byte[100], 0, 100)));
+        return Try.of(() -> {
+            FileInputStream fis = new FileInputStream(filePath);
+            byte[] b = new byte[100];
+            fis.read(b, 0, 100);
+            return new String(b);
+        });
     }
 
     public static void main(String[] args) {
         System.out.println(divide(5.0, 0.0));
 
-        Try<Double> response = divide2(5.0, 0.0);
-        response.onFailure(it -> System.out.println(it.getMessage()));
-        response.onSuccess(it -> System.out.println(it));
+        divide2(5.0, 0.0)
+        .onFailure(it -> System.out.println(it.getMessage()))
+        .onSuccess(it -> System.out.println(it));
+
+        readFile("test.txt")
+        .onFailure(it -> System.out.println(it.getMessage()))
+        .onSuccess(it -> System.out.println(it));
     }
 }
